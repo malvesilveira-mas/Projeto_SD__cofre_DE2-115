@@ -36,3 +36,6 @@ Os botões ficam assim: KEY[1] confirma, KEY[2] incrementa e KEY[3] decrementa. 
 **LEDs e volta ao início:** Com a senha certa, acendemos os 9 LEDs verdes da placa ao mesmo tempo. Com a senha errada, acendemos os 18 LEDs vermelhos. Em ambos os casos, o contador diminui a cada ciclo do clock de 50 MHz, começando em 250.000.000 para os 5 segundos e em 150.000.000 para os 3 segundos. Quando ele chega a zero, a FSM zera os dígitos e o índice e volta ao START, com os displays em 0 e o primeiro dígito ativo, pronta para uma nova tentativa.
 
 Enquanto os LEDs estão acesos, os botões KEY[1], KEY[2] e KEY[3] não fazem nada, porque esses estados simplesmente não olham para eles. A única forma de interromper a contagem antes do fim é apertar o reset.
+
+## Link do vídeo
+https://drive.google.com/file/d/1asNZoOD-GX0m6K_On4L3zDpBDNKpIJUj/view
