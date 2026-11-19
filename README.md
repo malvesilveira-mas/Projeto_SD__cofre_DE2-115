@@ -38,4 +38,4 @@ Os botões ficam assim: KEY[1] confirma, KEY[2] incrementa e KEY[3] decrementa. 
 Enquanto os LEDs estão acesos, os botões KEY[1], KEY[2] e KEY[3] não fazem nada, porque esses estados simplesmente não olham para eles. A única forma de interromper a contagem antes do fim é apertar o reset.
 
 ## Link do vídeo
-https://drive.google.com/file/d/1asNZoOD-GX0m6K_On4L3zDpBDNKpIJUj/view
+[https://drive.google.com/file/d/1asNZoOD-GX0m6K_On4L3zDpBDNKpIJUj/view](https://drive.google.com/file/d/1I67rV3luPYd4TvNSlw1ExIEHSQBx5aru/view?usp=sharing)
